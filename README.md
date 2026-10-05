@@ -55,4 +55,4 @@
 
 ---
 
- \<p align="center"\> \<i\>Still learning. Still building. Still curious.\</i\> \</p\>
+<p align="center"> <i>Still learning. Still building. Still curious.</i> </p>
