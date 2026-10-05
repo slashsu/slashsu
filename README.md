@@ -1,65 +1,58 @@
-Hi, I'm Lau 👋
+# Hi, I'm Lau 👋
 
-Freshman · CS learner · Curious about AI, Web & emerging technologies
+ **Freshman · CS learner · Curious about AI, Web & emerging technologies**
 
-I'm a freshman who's exploring the world of Computer Science and figuring out what I can build with it.
+ I'm a freshman exploring the world of **Computer Science** and figuring out what I can build with it.
 
-I'm particularly interested in:
+ ## 🌱 I'm interested in
 
-🤖 Artificial Intelligence
+ - 🤖 Artificial Intelligence
+- 💻 Computer Science
+- 🌐 Web Development
+- 🚀 New & emerging technologies
 
-💻 Computer Science
+ I don't have everything figured out yet — and that's the fun part.
 
-🌐 Web Development
+ I like learning by **building, experimenting, breaking things, and trying again.**
 
-🚀 New & emerging technologies
+ ## 📚 Currently learning
 
-I don't have everything figured out yet — and that's the fun part.
+ - Programming fundamentals
+- Git & GitHub
+- Web development
+- AI / Machine Learning
+- Linux & developer tools
 
-I like learning by building, experimenting, breaking things, and trying again.
+ ## 🔭 Currently exploring
 
-🌱 Currently learning
+ > What can I build with the things I'm learning?
 
-Programming fundamentals
+ I use my repositories to keep notes, experiment with ideas, and turn what I learn into projects.
 
-Git & GitHub
+ ## 🛠️ Tools & Technologies
 
-Web development
+ | Category | Technologies |
+| --- | --- |
+| Languages | Python · C/C++ · JavaScript |
+| Web | HTML · CSS · JavaScript |
+| Tools | Git · GitHub · Linux |
+| Exploring | AI · ML · Web · ... |
 
-AI / Machine Learning
+## 📖 My Notes
 
-Linux & developer tools
+ I'm keeping my learning notes, experiments, and discoveries in my repositories.
 
-🔭 Currently exploring
+ > **Learn → Build → Break → Understand → Repeat**
 
-What can I build with the things I'm learning?
+ ## 🎯 2026 Goals
 
-I'm using my repositories as a place to experiment, take notes, and turn ideas into projects.
+ - Build more projects
+- Strengthen my CS fundamentals
+- Explore AI seriously
+- Learn how the Web works
+- Contribute to open source
+- Discover interesting things in tech
 
-🛠️ Tools & Technologies
-Languages    →  Python · C/C++ · JavaScript
-Web          →  HTML · CSS · JavaScript
-Tools        →  Git · GitHub · Linux
-Exploring    →  AI · ML · Web · ...
+---
 
-📚 My Notes
-
-I'm also keeping my learning notes and experiments in my repositories.
-
-Learn → Build → Break → Understand → Repeat
-
-🎯 2026
-
-Build more projects
-
-Get stronger at CS fundamentals
-
-Explore AI seriously
-
-Learn how the Web works
-
-Contribute to open source
-
-Keep discovering interesting things in tech
-
-<p align="center"> <i>Still learning. Still building. Still curious.</i> </p>
+ \<p align="center"\> \<i\>Still learning. Still building. Still curious.\</i\> \</p\>
